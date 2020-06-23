@@ -1,0 +1,6 @@
+#!/bin/bash
+
+curl -L https://csusm-my.sharepoint.com/:u:/r/personal/bread_csusm_edu/Documents/recent%20files/Research/yeast_genomes/CW__45_4_results/CW__45_4_S178_L002_R2_001.fastq.gz?csf=1&web=1&e=6Qe4ou -o CW45R2.fastq.gz
+curl -L https://csusm-my.sharepoint.com/:u:/r/personal/bread_csusm_edu/Documents/recent%20files/Research/yeast_genomes/CW__45_4_results/CW__45_4_S178_L002_R1_001.fastq.gz?csf=1&web=1&e=SgLjH0 -o CW45R1.fastq.gz
+curl -L https://csusm-my.sharepoint.com/:u:/r/personal/bread_csusm_edu/Documents/recent%20files/Research/yeast_genomes/CW_17_1_results/CW_17_1_S156_L002_R1_001.fastq.gz?csf=1&web=1&e=arI44Z -o CW17R1.fastq.gz
+curl -L https://csusm-my.sharepoint.com/:u:/r/personal/bread_csusm_edu/Documents/recent%20files/Research/yeast_genomes/CW_17_1_results/CW_17_1_S156_L002_R2_001.fastq.gz?csf=1&web=1&e=KvZnVt -o CW17R2.fastq.gz
