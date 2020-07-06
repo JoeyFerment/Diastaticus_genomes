@@ -1,0 +1,7 @@
+apt-utils
+nano
+tzdata
+libncurses5-dev
+libncursesw5-dev
+gnuplot
+bc
