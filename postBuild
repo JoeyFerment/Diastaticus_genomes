@@ -13,4 +13,4 @@ curl -L https://ndownloader.figshare.com/files/24079310 -o P3R2.fastq.gz
 curl -L https://ndownloader.figshare.com/files/24079313 -o RBYR1.fastq.gz
 curl -L https://ndownloader.figshare.com/files/24079316 -o RBYR2.fastq.gz
 curl -L https://ndownloader.figshare.com/files/24125876 -o S288C_reference_genome
-curl -L https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/146/045/GCF_000146045.2_R64/GCF_000146045.2_R64_genomic.fna.gz -o reference_genome
+curl -L https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/146/045/GCF_000146045.2_R64/GCF_000146045.2_R64_genomic.fna.gz -o reference_genome.fna.gz
