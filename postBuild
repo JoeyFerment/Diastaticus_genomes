@@ -1,16 +1,5 @@
 #!/bin/bash
-curl -L https://ndownloader.figshare.com/files/23687165 -o 45R1.fastq.gz
-curl -L https://ndownloader.figshare.com/files/23687357 -o 45R2.fastq.gz
-curl -L https://ndownloader.figshare.com/files/23687372 -o 17R1.fastq.gz
-curl -L https://ndownloader.figshare.com/files/23687375 -o 17R2.fastq.gz
-curl -L https://ndownloader.figshare.com/files/23705051 -o 41R1.fastq.gz
-curl -L https://ndownloader.figshare.com/files/23705057 -o 41R2.fastq.gz
-curl -L https://ndownloader.figshare.com/files/23705069 -o 84R1.fastq.gz
-curl -L https://ndownloader.figshare.com/files/23705072 -o 84R2.fastq.gz
-curl -L https://ndownloader.figshare.com/files/23705075 -o P3R1.fastq.gz
-curl -L https://ndownloader.figshare.com/files/23705630 -o P3R2.fastq.gz
-curl -L https://ndownloader.figshare.com/files/23705744 -o RBYR1.fastq.gz
-curl -L https://ndownloader.figshare.com/files/23705750 -o RBYR2.fastq.gz
+
 curl -L https://ndownloader.figshare.com/files/24125876 -o S288C_reference_genome
 conda install -c conda-forge -c bioconda -c defaults -c astrobiomike bit
 curl -L https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/146/045/GCF_000146045.2_R64/GCF_000146045.2_R64_genomic.fna.gz -o reference_genome.fna.gz
