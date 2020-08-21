@@ -19,7 +19,7 @@ dependencies:
   - pysam
   - checkm-genome
   - prokka
-  - blast=2.3
+  - blast
   - busco
   - augustus
   - hmmer
