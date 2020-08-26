@@ -19,9 +19,9 @@ dependencies:
   - pysam
   - checkm-genome
   - prokka
-  - blast
+  - blast==2.3
   - busco
-  - augustus
+  - augustus==3.2
   - hmmer
   - prodigal
   - sepp
