@@ -4,14 +4,6 @@ channels:
   - bioconda
   - defaults
 dependencies:
-  - bowtie2
-  - samtools
-  - bedtools
-  - bbmap
-  - seqtk
-  - numpy
-  - matplotlib
-  - pysam
   - prokka
   - blast
   - busco
