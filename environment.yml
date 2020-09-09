@@ -3,6 +3,14 @@ channels:
   - conda-forge
   - bioconda
   - defaults
+dependencies:
+  - prokka
+  - blast
+  - busco
+  - augustus
+  - hmmer
+  - prodigal
+  - sepp
  
   
 
