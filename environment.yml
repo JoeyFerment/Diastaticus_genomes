@@ -8,16 +8,17 @@ dependencies:
   - samtools
   - bedtools
   - bbmap
-  - trimmomatic
-  - fastqc
-  - seqtk
-  - kallisto
-  - spades
   - multiqc
   - numpy
   - matplotlib
   - pysam
   - checkm-genome
+  - prokka
+  - blast
+  - augustus
+  - hmmer
+  - prodigal
+  - sepp
  
 
 
