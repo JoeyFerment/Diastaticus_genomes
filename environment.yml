@@ -18,12 +18,6 @@ dependencies:
   - matplotlib
   - pysam
   - checkm-genome
-  - prokka
-  - blast
-  - augustus
-  - hmmer
-  - prodigal
-  - sepp
  
 
 
